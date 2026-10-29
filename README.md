@@ -11,7 +11,7 @@ A automação utiliza um fluxo visual no n8n para organizar as etapas de agendam
 ## 🖼️ Telas do projeto
 
 ### Fluxo da automação
-![image alt]([https://github.com/JOTTAX200/BiblioWeb/blob/main/Tela%20Principal.png?raw=true](https://github.com/JOTTAX200/WhatsApp-Automation/blob/main/Fluxo%20da%20Automacao.png?raw=true))
+![image alt]((https://github.com/JOTTAX200/WhatsApp-Automation/blob/main/Fluxo%20da%20Automacao.png?raw=true))
 
 ### Resultado
 ![image alt](https://github.com/JOTTAX200/BiblioWeb/blob/main/Livros%20Principais.png?raw=true)
