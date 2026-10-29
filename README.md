@@ -14,7 +14,7 @@ A automação utiliza um fluxo visual no n8n para organizar as etapas de agendam
 ![image alt](https://github.com/JOTTAX200/WhatsApp-Automation/blob/main/Fluxo%20da%20Automacao.png?raw=true)
 
 ### Resultado
-![image alt](https://github.com/JOTTAX200/BiblioWeb/blob/main/Livros%20Principais.png?raw=true](https://github.com/JOTTAX200/WhatsApp-Automation/blob/main/Resultado.png?raw=true)
+![image alt](https://github.com/JOTTAX200/WhatsApp-Automation/blob/main/Resultado.png?raw=true)
 
 ## ⚙️ Funcionalidades
 
