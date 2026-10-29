@@ -8,6 +8,14 @@ Este projeto foi desenvolvido para automatizar o envio de uma mensagem recorrent
 
 A automação utiliza um fluxo visual no n8n para organizar as etapas de agendamento, consulta de feriados, validação das condições e envio da mensagem por meio da API do WAHA.
 
+## 🖼️ Telas do projeto
+
+### Fluxo da automação
+![image alt]([https://github.com/JOTTAX200/BiblioWeb/blob/main/Tela%20Principal.png?raw=true](https://github.com/JOTTAX200/WhatsApp-Automation/blob/main/Fluxo%20da%20Automacao.png?raw=true))
+
+### Resultado
+![image alt](https://github.com/JOTTAX200/BiblioWeb/blob/main/Livros%20Principais.png?raw=true)
+
 ## ⚙️ Funcionalidades
 
 - ⏰ **Agendamento automático:** execução programada para terça-feira, quarta-feira e quinta-feira, às 12h.
